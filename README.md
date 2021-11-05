@@ -1,0 +1,2 @@
+# PayQr_App
+PayQr is an android app which aims to bring revolution in the payment system in Pakistan . It is a Qr payment system through which users can pay their bills just by scanning a QR code which will not only solve the problem for brands but also small businesses which are our main target.  There will be no need to carry cards and cash while going for shopping just scan the QR code and then you are all set to go. 
