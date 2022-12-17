@@ -8,4 +8,4 @@ There are different apps for Digi Khata, qrcode scan and generator, barcode scan
 ![Account Screen](https://user-images.githubusercontent.com/62467164/140577600-ca4a02b4-958a-4288-a7ef-41b3251bca63.png)
 ![Pay Screen](https://user-images.githubusercontent.com/62467164/140577611-90bbceb4-1413-401a-9596-5c51f242844d.png)
 
-PayQr is an android app which aims to bring revolution in the payment system in Pakistan . It is a Qr payment system through which users can pay their bills just by scanning a QR code which will not only solve the problem for brands but also small businesses which are our main target.  There will be no need to carry cards and cash while going for shopping just scan the QR code and then you are all set to go. 
+PayQr is an app which aims to bring revolution in the payment system in Pakistan . It is a Qr payment system through which users can pay their bills just by scanning a QR code which will not only solve the problem for brands but also small businesses which are our main target.  There will be no need to carry cards and cash while going for shopping just scan the QR code and then you are all set to go. 
